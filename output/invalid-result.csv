@@ -1,0 +1,19 @@
+section,fy,hf_type,hf_count,overall_score
+diagnosis,2020-2021,health center,62,0.0
+diagnosis,2020-2021,"hospital (dh,ph,rh)",11,0.0
+screening,2020-2021,health center,70,0.0
+screening,2020-2021,"hospital (dh,ph,rh)",21,0.0
+screening,2021-2022,health center,51,0.0
+screening,2021-2022,"hospital (dh,ph,rh)",16,0.0
+screening,2022-2023,health center,24,0.0
+screening,2022-2023,"hospital (dh,ph,rh)",6,0.0
+screening,2023-2024,health center,38,0.0
+screening,2023-2024,"hospital (dh,ph,rh)",19,0.0
+treatment,2020-2021,health center,32,4.716981132075472
+treatment,2020-2021,"hospital (dh,ph,rh)",8,0.0
+treatment,2021-2022,health center,14,125.0
+treatment,2021-2022,"hospital (dh,ph,rh)",3,125.0
+treatment,2022-2023,health center,2,125.0
+treatment,2022-2023,"hospital (dh,ph,rh)",1,125.0
+treatment,2023-2024,health center,3,125.0
+treatment,2023-2024,"hospital (dh,ph,rh)",3,116.66666666666667

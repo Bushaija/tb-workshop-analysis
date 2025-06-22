@@ -1,0 +1,25 @@
+section,fy,hf_type,hf_count,overall_score
+diagnosis,2020-2021,health center,74,59.580952380952375
+diagnosis,2020-2021,"hospital (dh,ph,rh)",21,74.82323232323232
+diagnosis,2021-2022,health center,69,41.511387163561075
+diagnosis,2021-2022,"hospital (dh,ph,rh)",21,77.18820861678005
+diagnosis,2022-2023,health center,31,38.218125960061435
+diagnosis,2022-2023,"hospital (dh,ph,rh)",8,72.61904761904762
+diagnosis,2023-2024,health center,69,41.127348643006265
+diagnosis,2023-2024,"hospital (dh,ph,rh)",42,73.69540229885057
+screening,2020-2021,health center,73,79.56521739130434
+screening,2020-2021,"hospital (dh,ph,rh)",17,66.08695652173913
+screening,2021-2022,health center,69,49.457229639047824
+screening,2021-2022,"hospital (dh,ph,rh)",21,26.90909090909091
+screening,2022-2023,health center,31,46.54320987654321
+screening,2022-2023,"hospital (dh,ph,rh)",8,13.333333333333334
+screening,2023-2024,health center,69,47.34249329758713
+screening,2023-2024,"hospital (dh,ph,rh)",42,33.254281949934125
+treatment,2020-2021,health center,74,79.04301075268818
+treatment,2020-2021,"hospital (dh,ph,rh)",21,84.08088235294117
+treatment,2021-2022,health center,69,71.90831556503198
+treatment,2021-2022,"hospital (dh,ph,rh)",21,84.40972222222223
+treatment,2022-2023,health center,31,60.94186046511628
+treatment,2022-2023,"hospital (dh,ph,rh)",8,65.54545454545455
+treatment,2023-2024,health center,69,69.88469601677149
+treatment,2023-2024,"hospital (dh,ph,rh)",42,82.42683531746032
